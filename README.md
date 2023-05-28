@@ -45,8 +45,12 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+
+
+![7](https://github.com/imthiyas19/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/120353416/596484a0-c1cf-41e4-a9da-b24734d5fc7b)
+
+### Name:MOHAMMED IMTHIYAS.M
+### Register Number:212222230083
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
